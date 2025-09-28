@@ -3,4 +3,7 @@
 - This is feature a branch
 - newly added line
 
-This is a simple line added for testing git push
+I add new some good
+lines
+
+I am a good developer who worked correctly.
