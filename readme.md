@@ -3,11 +3,13 @@
 - This is feature a branch
 - newly added line
 
-This is a simple line added for testing git push
+I add new some good
+lines
 
-this is a bad line
-i addded 
-for fun.
+I am a good developer who worked correctly.
+
+This is a simple line added for testing git push
 
 def print sum(a):
     print(a*a)
+
